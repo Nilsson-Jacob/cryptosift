@@ -1,2 +1,2 @@
 # cryptosift
-A tool that evaluates cryptocurrencies using MACD indicators
+A Python tool that evaluates cryptocurrencies using MACD indicators
